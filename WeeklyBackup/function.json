@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "sunday0220",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 20 7 * * 1"
+    }
+  ],
+  "disabled": false
+}

@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "first0240",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 40 7 1 * *"
+    }
+  ],
+  "disabled": false
+}

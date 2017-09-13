@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "daily0200",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 0 7 * * *"
+    }
+  ],
+  "disabled": false
+}

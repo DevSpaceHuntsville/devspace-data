@@ -1,0 +1,9 @@
+{
+    "frameworks": {
+        "net46": {
+            "dependencies": {
+                "Microsoft.SqlServer.Dac": "1.0.3"
+            }
+        }
+    }
+}
